@@ -1090,10 +1090,6 @@ like C<cryp>. An example configuration:
  key = S6WBYR6Q-TVMTSFOA-YWK6GSNT-H0JMEK6Z-YDF5ML9Y
  secret = e16064aa7fb477b267fe774df62194f33583c7f46a09ad931ca2e097aeaa9c9296e1c3b2734bab71
 
- [exchange/bitcoin-indonesia]
- key = S6WBYR6Q-TVMTSFOA-YWK6GSNT-H0JMEK6Z-YDF5ML9Y
- secret = e16064aa7fb477b267fe774df62194f33583c7f46a09ad931ca2e097aeaa9c9296e1c3b2734bab71
-
 For other available commands, see the help message or documentation:
 
  % cryp-folio -h
